@@ -1,0 +1,953 @@
+#=======================================================
+# FHI-aims file: /nethome/he000026/phd/1-Phd-NMC-LLZO/5-LCO+TFSI-PFBS/5-fhi-aims/R2SCAN/03-LCO-104+TFSI/geometry.in
+# Created using the Atomic Simulation Environment (ASE)
+# Fri Sep  6 14:09:15 2024
+#=======================================================
+lattice_vector 16.9499447509299443 0.0058937000504963 -0.0434088738165042 
+lattice_vector -0.0296715727828860 13.9897118404382219 -0.0182644650124657 
+lattice_vector 0.0009181325852237 -0.0175280202879438 26.9442818122840073 
+atom 15.3237366073120675 1.3954565773005783 10.1155733126147762 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 15.3694304128280255 12.5216727672536461 10.1475878502858752 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 15.3497096267542847 4.1544305227526053 10.1494065927716406 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 9.6520989021418533 12.6425150238826891 10.1657914784870034 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 15.4237717241264072 9.7015856559400877 10.1782493762839632 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 9.7233958335756494 9.9066559654793469 10.1783038037057700 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 15.4188565053623474 6.8921150783853005 10.1825805242774852 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 4.0378580251112730 4.0958956928258905 10.1898184162263501 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 9.7394672603126953 4.3100907770617543 10.2015856051906617 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 1.4536166091350957 1.4338681672807891 10.2065287758548333 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 9.7311126509295534 1.4879291916959134 10.2100887295484632 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 9.8007549534102250 7.0949623828778314 10.2135766160365709 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 4.1325878258458006 1.2670355627018139 10.2207640474312544 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 4.1136300951069762 6.8231427256342343 10.2280882773265489 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 4.0953543049210328 12.4398719265357620 10.2281904170789932 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 7.1205130510826384 6.9328104841185860 10.2341059637101743 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 4.1560669689490490 9.6361171057822403 10.2383841070315516 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 12.7566853807911134 9.8471483690349686 10.3957458532063427 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 12.6980195471356101 12.6813783066220349 10.4020046385199940 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 12.8110036652476076 6.9824493720555507 10.4368577867780026 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 1.4686449674671336 9.7745306260180804 10.4485513562976351 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 1.5019651568538488 6.9568900284618751 10.4553034815270252 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 12.7249222916746412 1.4804799367092107 10.4555392152361808 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 7.0562309098432854 4.1132589795893182 10.4565439093674737 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 1.4282933860597082 12.5965491954009980 10.4575565624399243 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 12.7802943719524382 4.2350475222780153 10.4667284497649362 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 7.0680251986608553 1.3153116863188770 10.4818213915647842 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 7.1259647234341532 9.7729673349347408 10.4857929434232826 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 1.4145129952501223 4.2077050667935723 10.4936704352828212 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 7.0480282862462831 12.5081564986520419 10.5177264372150479 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 13.9815322282004963 11.2524881889574768 12.3403921989884253 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 13.9974755921956930 8.4438673772176571 12.3555167776505641 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 11.3854592757951636 8.4424581774995957 12.3632465190088752 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 8.3327273463938010 5.5750139460053356 12.3634185810843782 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 2.7243813054640076 0.0425154642748712 12.3635836857813661 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 11.3593894750423026 11.2344149679322065 12.3642415127646217 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 13.9959293017743178 0.0555604643561445 12.3663804152877628 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 8.3491307727202759 8.3552263223181136 12.3760734924758200 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 2.6723748443060376 2.7638806259869684 12.3823648418778056 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 0.0333492443458976 0.0540019842591034 12.3931699298888258 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 11.3713881826730017 2.8447567848248285 12.3953694656949462 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 2.7329058987521213 11.1337279542791130 12.3956169324039696 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 8.3408401307968898 2.7666837574776597 12.3962673884414762 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 2.7065419969518723 8.3585292081175719 12.3999295685423405 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 13.9936421141608562 2.8386671272395412 12.4109345416302794 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 8.3321856270668579 13.9565957286425260 12.4012371894631812 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 0.0742612691693528 5.5677589914888728 12.4247317381259545 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 2.6840596870985101 5.5581411603051309 12.4368710265357016 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 13.9948071279200619 5.6278362161912332 12.4377746605995565 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 0.0284169288029112 11.1149779252162464 12.4513446118432345 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 8.3375818761577261 11.1631333330707729 12.4546653360737007 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 11.3629561206020799 0.0415840289369370 12.4940496024040915 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 11.3827015062631016 5.6391655181085820 12.5006084685377754 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 0.0822955355252960 8.3611783886825588 12.5092008553525371 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 5.7257540378910399 2.7566024205838335 12.5174605537311159 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 5.7279438626989592 5.5717855153394584 12.5341888810473154 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 5.7372865171542227 8.3405728275094013 12.5445743622272676 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 5.7061420158215057 13.9478982207874740 12.5360455293990345 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 5.7274950970379370 11.1464188151941102 12.5553245392532418 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 0.0571654460500168 2.7780205682396013 12.5600172320885992 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 12.5922063470563543 12.6237874726669510 14.3011304064149645 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 12.5990071319678822 9.8455187689389803 14.3207988474397272 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 12.5892524208226479 7.0604981418253869 14.3372950507385308 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 1.2903024812678137 12.5950966266701627 14.3382005267429058 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 12.6072183885667570 1.4527909105642114 14.3443133474124593 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 6.9571090195582412 4.1849614098779666 14.3525123204523357 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 1.3550712798357991 9.7207644582058776 14.3527617103139100 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 1.2866694812995025 6.9487093308689731 14.3556498438058942 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 12.5896548286358847 4.2256884079381303 14.3644256172943976 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 6.9744066543315970 1.3842718131990421 14.3780085291791568 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 6.9557026254283203 9.7627229888576732 14.3867418789734849 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 6.9510339919009310 12.5841758850122591 14.3949622272869338 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 1.3010049880244825 4.1728633652434866 14.4002112043073947 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 15.6391490256832686 6.9776846400321721 14.4406350376077270 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 4.3385222950289943 4.1620331411400500 14.4463463998879593 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 9.9906319629427536 7.0417697421881442 14.4474250499015113 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 9.9908453576567435 4.2269882038951367 14.4545887833119995 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 15.6074548669327680 9.7709644050083480 14.4700358048031621 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 4.3262169007085589 12.5768111512045859 14.4943569338801606 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 15.6453765988653331 1.3909837161359742 14.4978926666045513 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 15.5771625791132049 12.6408408960014746 14.5004368018387240 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 4.3420954610487801 9.7736317052900841 14.5005233849756436 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 6.9464290713133972 6.9630094586890454 14.5046501321184635 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 4.3399622660173520 1.3821969617167909 14.5047280508492644 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 4.3305461953622038 6.9740639350272877 14.5069247812498396 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 15.6345109343300610 4.1856973198891456 14.5093017504233242 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 9.9855816162272237 12.6185515910129968 14.5123527551601477 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 9.9940184591949848 1.4253145609655080 14.5187371476639839 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 1.3020897815506982 1.3580240854640051 14.5244350104476894 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 9.9951175495230036 9.8330385843112751 14.5408520846324567 O
+    constrain_relaxation .true.
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 16.8854748728172268 8.3221744900194494 16.3592918399868807 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 11.3393312525172636 0.0555583295799299 16.3719298740780559 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 5.6079352289997111 2.8247379204888428 16.3954530935380767 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 11.1972697224462205 5.6245575069755045 16.3990305379079011 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 16.8989028698396062 2.7652419700185198 16.4218966228006735 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 5.5346823978310145 5.5506352844815661 16.4381589358556788 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 5.5926299811544187 11.2170114494463373 16.4420918733995833 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 5.6334876394118600 0.0345752306440629 16.4477538124044393 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 5.5645130353249650 8.4010397750382939 16.4523739825776332 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 16.8776423345069837 11.1322605942604440 16.4975411179121778 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 16.8007990728788670 5.5954699084478356 16.6206130648134867 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 11.1738008023649797 8.4201591055815577 16.6306665431827518 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 11.1827101932917117 2.8422883348922019 16.6330336647774359 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 14.1808058830536368 5.7063877355034505 16.6379920949505653 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 14.2017188796595555 11.2888431599604697 16.6461933932969082 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 11.2366364800146314 11.2752710423561382 16.6502896646421554 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 8.5676230523095906 2.8730193429529138 16.6553585314592389 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 8.5640591892699565 11.1319842569515082 16.6569692804350922 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 2.9153539426861266 11.0434264702112195 16.6685722033710810 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 2.8905743572380058 8.2454012505170198 16.6704303840976316 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 2.9148814990896024 5.4388798583235616 16.6721205217756676 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 14.2675454657070944 8.4541449004154163 16.6735028512711345 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 8.5550200767617373 8.3168003222742026 16.6800895854495863 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 8.6119867091882174 5.6048907752083839 16.6804573053268079 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 16.7916172183066443 13.9793452521165165 16.6624241454625484 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 14.2674171405087531 2.8537533120870351 16.6842548972362614 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 14.2170576857053543 0.1297471349976570 16.6986988902936204 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 2.9214872151628040 13.8474319301514033 16.6871579409587909 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 8.6799737195457123 0.0108028223144323 16.7168430036426088 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 2.9964925934785884 2.7035236045472706 16.7219445302400089 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 3.5433849999999714 12.0860569999999754 18.2219445302400196 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 1.7440139999999840 8.7557579999999717 18.6573925302400170 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 2.4678730000000422 12.2594830000000261 20.4062775302400219 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 1.2746090000000132 9.9601870000000332 20.6793405302399549 O
+    initial_charge        -2.000000
+    initial_moment         0.000100
+atom 16.8403275176089977 2.7859433882091023 10.2323460806035786 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 5.5721984938510909 5.5115148668403879 10.2766668180195531 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 16.8557881045285143 13.9862496503194347 10.2756124066966219 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 5.6373879269330613 8.2862964286449508 10.2969390996028594 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 11.1872942434838656 11.2466970608710568 10.3400820343857767 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 11.2632108544059548 8.4666991303708308 10.3606498439765158 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 11.2228556708331517 5.6719251893072835 10.3674066958437852 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 11.2128725162695009 0.0760152983777127 10.3696715677918583 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 16.8668492510389783 5.5721244268108876 10.3707277327039478 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 16.9198233862675878 8.3497195712155552 10.3317317096665260 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 16.8655446387799337 11.1318862708872981 10.3432659026121634 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 5.5801171396301559 2.7030467940870970 10.3897825135616788 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 5.5582408859834080 13.8922926112156073 10.3899414150435856 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 11.2093905401152352 2.8623529678115918 10.3900279185802695 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 5.5805567799499531 11.0963722734551116 10.4104814727736503 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 9.8791557473514899 9.8383851802349085 12.3728976349274102 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 15.5226072004605875 9.7650206475476988 12.3792318357430684 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 15.5202201502485675 6.9419176901372905 12.3957638664937146 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 15.4778017314864336 12.6148155833425122 12.3971226495847606 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 15.4848750324932318 4.2067788976168954 12.4166842120223446 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 9.9069957268609787 7.0358322648508818 12.4172073522011353 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 9.8875369693214115 4.2287782696178011 12.4262534403100631 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 9.8453033888980439 12.5836126695812389 12.4266717737179455 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 9.8873968772367000 1.4350959873265310 12.4456381168830443 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 4.1958789982510645 6.9133856828393325 12.4498115236715883 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 4.2263132356981137 12.5356643474613296 12.4504862493915329 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 15.4845971409300738 1.4372906564403696 12.4542412370247817 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 4.2366624374310220 1.3625907727889455 12.4547889940492915 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 4.1938562368351819 4.1742421444696722 12.4606663019241850 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 4.2286779930915550 9.7356146193553403 12.4700696762801631 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 14.1375949348449179 8.3924373773518344 14.3778773656627283 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 14.0896874375662975 11.2396195904383482 14.3928525434142092 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 14.1265550971288665 2.8186979204644578 14.4066943847992519 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 2.8414071992972469 11.1240796036180729 14.4147917602260058 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 2.8145281087715515 8.3423889980249708 14.4183417013464510 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 14.1081897097309827 5.6388892742458028 14.4302286944610945 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 8.4795053664221953 0.0075593272760971 14.4348046147482520 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 2.8333989466197811 5.5178307616853592 14.4385772339462513 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 2.8332613525239676 2.7858550565694080 14.4406185400066178 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 2.7992296374455656 13.9697224588985431 14.4319385796050632 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 8.4389991875351207 11.1700624365063632 14.4514726084689489 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 14.1150521459827232 0.0618901438212944 14.4605534037848056 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 8.4710118163316679 5.6046229355574404 14.4663631848162009 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 8.4643499193235510 2.8362371167307239 14.4706955161616655 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 8.4385613420115675 8.3412323889096900 14.5051033604899722 Li
+    constrain_relaxation .true.
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 7.1130853294090315 4.1908269901899473 16.5030405030464742 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 7.1165003586335569 12.5749888488239776 16.5095155968557421 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 7.1350675597774984 1.4353902172216042 16.5101769800976896 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 7.0961696382734507 7.0025907078856244 16.5103547354896918 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 1.4575883244395873 9.6875703062746883 16.5205232315222830 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 7.0844683118006202 9.7649495252552452 16.5268679766885711 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 12.7231034153920515 4.2688979297355578 16.5425814031282030 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 12.7386733064493480 7.0634337983200179 16.5586366641693701 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 1.4412725790212120 1.3275028417747166 16.5731736910965672 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 12.7841311298761493 1.4429475226258142 16.5805663765946818 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 1.4095897622041067 6.9110521810510352 16.5817947595524053 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 12.7315396906951790 12.6744225581527203 16.5919512255641415 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 1.4800706964640560 4.1082571074592042 16.5958166190692360 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 12.7202347469217383 9.8874700818801511 16.6574289609979900 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 1.4455895159542225 12.4842137618036197 16.7061047168127956 Li
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 14.0805020446798146 2.8091432460591199 10.3402608397049232 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 8.4525436946915296 5.6153612688055237 10.3547796048130358 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 14.1366456492677397 5.5712605491561611 10.3547924006256338 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 14.1181854265358311 11.1984994996555915 10.3589285927267110 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 2.7860506158673619 2.7446775538867421 10.3695493228086892 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 8.4170322928498091 11.2004351306172207 10.3701472619283130 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 2.7922421119981595 5.5256171699414445 10.3711614984389300 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 8.5446315457795787 8.4013182847173216 10.3733702274118347 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 2.8296378419255164 13.9652057737676856 10.3561647963084642 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 14.1904497208128575 8.3738106964717272 10.3784089203924239 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 14.1138941471072066 0.0170498792855558 10.3824431544469942 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 8.4726444952529771 2.8065090419367014 10.4140736696876193 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 2.8445573981804633 11.1178462854932736 10.4164843617134508 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 2.9116838726014360 8.3134533082361308 10.4267233139363906 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 8.4562824463179531 -0.0018216493986312 10.4355898569178276 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 12.6713948502683653 9.8396624513787163 12.3539820681100245 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 12.6505502552990663 12.6387583286027745 12.3655059425046581 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 1.3513202518364602 12.5795208595250116 12.3822303903297861 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 12.6939191908407416 7.0306974519825181 12.3932394048856835 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 12.6753427130143006 1.4584040724383656 12.3979704150201986 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 1.3589107956138819 1.3919931021181666 12.4086230647161262 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 12.6910998805542352 4.2341661528664751 12.4155080350238336 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 1.3933724041944666 9.7522790267737207 12.4182184115130418 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 1.3889012854193623 6.9513202345233722 12.4195600208829511 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 7.0270832287189204 4.1607804345390971 12.4248163793928263 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 7.0364012144617645 6.9609338109538994 12.4280597037880849 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 1.3679679478319038 4.1853770452304735 12.4372751895996085 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 7.0387907424255776 1.3618381627972691 12.4474544074835016 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 7.0469515141254888 9.7644300314013446 12.4515359787459108 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 7.0272156762399787 12.5486836592920490 12.4603698692419922 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 16.9336990886578214 5.5801971120647345 14.4330520273335399 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 11.2808745027405877 5.6366301850518123 14.4345405272549421 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 11.2845027357150052 8.4288843104243139 14.4399069399110491 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 11.2948396742138257 11.2359511327995545 14.4399325225483661 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 11.3205766816724758 0.0427278371842231 14.4437282748671283 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 5.6517009105519929 2.7862333864249811 14.4485564104743673 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom -0.0037543815961089 8.3532074226059994 14.4497176422233480 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 11.2902578118586465 2.8451981428740791 14.4497619195502622 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 16.9377061252053593 0.0163461786904959 14.4656966277995203 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom -0.0084120082480687 11.1578982073354229 14.4658351831344003 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 5.6398271463650183 5.5677943872666660 14.4715557646898336 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 5.6503106930208684 11.1717757377008198 14.4735744412375329 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 5.6386290646626414 13.9774606888352046 14.4596568228662363 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 5.6511888816536855 8.3609111233406850 14.4874476160100407 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom -0.0017969540845226 2.7715978258750389 14.5182034780955558 Co
+    constrain_relaxation .true.
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 15.5099958407436453 9.8050097218545496 16.4698794282254504 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 4.1981291757129391 12.5436889230756421 16.4740475362553553 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 4.1330997387868527 6.9243126602737961 16.4767879061728131 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 4.1916477419615390 9.7376090571229312 16.4804544954914292 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 4.2328654922072992 1.3549736828937269 16.4843875209118593 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 15.4788348032858458 4.2304778039191362 16.5057462371021764 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 9.9184593114404347 12.5981308860755625 16.5078502059814269 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 15.4487347577706888 12.6324115256679939 16.5116826356925053 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 9.8985364591017060 1.4361787133896773 16.5192615580500615 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 4.2361894381582932 4.1377933709323065 16.5222276642487955 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 15.5064672385003401 7.0034073706933757 16.5269724440713830 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 9.8510808235021710 4.2246089234843085 16.5553233453629574 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 9.8270542599274311 9.7990311776238155 16.5566939898248222 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 9.8516228880216392 7.0031468999059969 16.5596091730794228 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 15.5354175416967539 1.4173152314938060 16.5851828594557347 Co
+    initial_charge         4.000000
+    initial_moment         2.000000
+atom 6.2228170000000373 11.9406559999999864 19.6267265302400702 F
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 5.1190809999999596 13.7637149999999959 20.1908405302400453 F
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 3.5000169999999731 6.9012599999999633 20.2856455302399858 F
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 1.4445169999999861 6.9627809999999863 21.0800875302400748 F
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 5.2710749999999935 12.0836480000000464 21.6100925302399709 F
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 3.0688130000000022 8.0076700000000240 22.1430415302400583 F
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 3.6646340000000031 11.7206079999999524 19.6402075302401151 S
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 2.2659480000000292 9.1319000000000354 19.9786905302400477 S
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 3.7160760000000157 10.0177539999999645 19.7876615302399550 N
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 5.1596929999999483 12.4193559999999952 20.3072515302399630 C
+    initial_charge         1.000000
+    initial_moment         0.000100
+atom 2.5893549999999883 7.6621389999999918 20.9292745302400860 C
+    initial_charge         1.000000
+    initial_moment         0.000100
